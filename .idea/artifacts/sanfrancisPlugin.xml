@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sanfrancisPlugin">
+    <output-path>$PROJECT_DIR$/out/artifacts/sanfrancisPlugin</output-path>
+    <root id="archive" name="sanfrancisPlugin.jar">
+      <element id="module-output" name="sanfrancisPlugin" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Spigot/spigot-api.jar" path-in-jar="/" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,40 @@
+name: sanfrancisPlugin
+author: sanfrancis
+version: 2.0
+main: me.sanfrancis.plugin.Main
+
+commands:
+    heal:
+        description: Heal yourself!
+        usage: /<command>
+    clear:
+        description: Clear your Inventory!
+        usage: /<command>
+    gm:
+         description: Change your Gamemode!
+         usage: /<command>
+    se:
+         description: Add some equip to your Inventory :D!
+         usage: /<command>
+    day:
+         description: Change to day!
+         usage: /<command>
+    night:
+         description: Change to night!
+         usage: /<command>
+    freeze:
+         description: Freeze players!
+         usage: /<command>
+    unfreeze:
+         description: Unfreeze frozen players!
+         usage: /<command>
+    teamitem:
+         description: Get the item to choose teams!
+         usage: /<command>
+         aliases: [ti]
+    chatclear:
+         description: Clear someone´s chat!
+         usage: /<command>
+    bow:
+             description: Get the SpecialBow!
+             usage: /<command>
